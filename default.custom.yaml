@@ -1,0 +1,6 @@
+patch:
+  "menu/page_size": 9
+  "ascii_composer/switch_key/Shift_L": commit_text
+  key_binder:
+    bindings:
+      - {accept: "Shift+space", toggle: full_shape, when: always}
