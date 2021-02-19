@@ -48,6 +48,8 @@ import_tables:
   - luna_pinyin.cn_en
 ...
 
+
+ㄇ	me
 ㄏ	he
 # ㄓ	zhi
 # ㄔ	chi
@@ -75,3 +77,7 @@ import_tables:
 
 ㄏㄏ		1
 好ㄘ		1
+ㄩㄇ		1
+
+掛G	gua g	100
+拉G	la g	100
