@@ -32,3 +32,23 @@ patch:
   # 本條補靪只在「小狼毫 0.9.30」、「鼠鬚管 0.9.25 」、「Rime-1.2」及更高的版本中起作用。
   "speller/algebra/@before 0": xform/^([b-df-hj-np-tv-z])$/$1_/
   "punctuator/import_preset": default
+
+  switches/@2:
+    options: [ zh_tw, zh_simp ]
+    reset: 0
+    states:
+      - 臺灣正體
+      - 简体中文
+
+  engine/filters:
+    - simplifier@zh_simp
+    - simplifier@zh_tw
+    - uniquifier
+
+  zh_tw:
+    option_name: zh_tw
+    opencc_config: t2tw.json
+
+  zh_simp:
+    option_name: zh_simp
+    tips: all
