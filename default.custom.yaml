@@ -14,5 +14,4 @@ patch:
     half_shape: {"!": {commit: "!"}, "\"": {commit: "\""}, "#": {commit: "#"}, "$": {commit: "$"}, "%": {commit: "%"}, "&": {commit: "&"}, "'": {commit: "'"}, "(": {commit: "("}, ")": {commit: ")"}, "*": {commit: "*"}, "+": {commit: "+"}, ",": {commit: ","}, "-": {commit: "-"}, .: {commit: .}, "/": {commit: "/"}, ":": {commit: ":"}, ";": {commit: ";"}, "<": {commit: "<"}, "=": {commit: "="}, ">": {commit: ">"}, "?": {commit: "?"}, "@": {commit: "@"}, "[": {commit: "["}, "\\": {commit: "\\"}, "]": {commit: "]"}, "^": {commit: "^"}, _: {commit: _}, "`": {commit: "`"}, "{": {commit: "{"}, "|": {commit: "|"}, "}": {commit: "}"}, "~": {commit: "~"}}
   schema_list:
     - {schema: luna_pinyin}
-    - {schema: bopomofo_tw}
-    - {schema: luna_pinyin_tw}
+    - {schema: bopomofo}
