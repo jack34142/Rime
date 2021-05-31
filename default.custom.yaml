@@ -15,3 +15,4 @@ patch:
   schema_list:
     - {schema: luna_pinyin}
     - {schema: bopomofo}
+    - {schema: liur}
