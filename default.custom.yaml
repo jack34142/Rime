@@ -6,11 +6,13 @@ customization:
   rime_version: 1.5.3
 patch:
   ascii_composer/switch_key/Shift_L: commit_code
-  key_binder/bindings/@next: {accept: "Shift+space", toggle: full_shape, when: always}
+  key_binder/bindings/@after last 1: {accept: "Shift+space", toggle: full_shape, when: always}
+  key_binder/bindings/@after last 2: {accept: "Home", send: "Control+Left", when: always}
+  key_binder/bindings/@after last 3: {accept: "End", send: "Control+Right", when: always}
   menu/page_size: 9
   recognizer/patterns/uppercase:
   punctuator:
-    full_shape: {" ": {commit: "　"}, "!": {commit: "！"}, "\"": {commit: "＂"}, "#": {commit: "＃"}, "$": {commit: "＄"}, "%": {commit: "％"}, "&": {commit: "＆"}, "'": {commit: "、"}, "(": {commit: "（"}, ")": {commit: "）"}, "*": {commit: "＊"}, "+": {commit: "＋"}, ",": {commit: "，"}, "-": {commit: "－"}, .: {commit: "。"}, "/": {commit: "／"}, ":": {commit: "："}, ";": {commit: "；"}, "<": {commit: "＜"}, "=": {commit: "＝"}, ">": {commit: "＞"}, "?": {commit: "？"}, "@": {commit: "＠"}, "[": {commit: "［"}, "\\": {commit: "＼"}, "]": {commit: "］"}, "^": {commit: "︿"}, _: {commit: "＿"}, "`": {commit: "‵"}, "{": {commit: "｛"}, "|": {commit: "｜"}, "}": {commit: "｝"}, "~": {commit: "～"}}
+    full_shape: {" ": {commit: "　"}, "!": {commit: "！"}, "\"": {commit: "＂"}, "#": {commit: "＃"}, "$": {commit: "＄"}, "%": {commit: "％"}, "&": {commit: "＆"}, "'": ["、", "＇"], "(": {commit: "（"}, ")": {commit: "）"}, "*": {commit: "＊"}, "+": {commit: "＋"}, ",": {commit: "，"}, "-": {commit: "－"}, .: ["。", "．"], "/": {commit: "／"}, ":": {commit: "："}, ";": {commit: "；"}, "<": {commit: "＜"}, "=": {commit: "＝"}, ">": {commit: "＞"}, "?": {commit: "？"}, "@": {commit: "＠"}, "[": ["「", "『", "［", "【"], "\\": {commit: "＼"}, "]": ["」", "』", "］", "】"], "^": {commit: "︿"}, _: {commit: "＿"}, "`": {commit: "‵"}, "{": {commit: "｛"}, "|": {commit: "｜"}, "}": {commit: "｝"}, "~": {commit: "～"}}
     half_shape: {"!": {commit: "!"}, "\"": {commit: "\""}, "#": {commit: "#"}, "$": {commit: "$"}, "%": {commit: "%"}, "&": {commit: "&"}, "'": {commit: "'"}, "(": {commit: "("}, ")": {commit: ")"}, "*": {commit: "*"}, "+": {commit: "+"}, ",": {commit: ","}, "-": {commit: "-"}, .: {commit: .}, "/": {commit: "/"}, ":": {commit: ":"}, ";": {commit: ";"}, "<": {commit: "<"}, "=": {commit: "="}, ">": {commit: ">"}, "?": {commit: "?"}, "@": {commit: "@"}, "[": {commit: "["}, "\\": {commit: "\\"}, "]": {commit: "]"}, "^": {commit: "^"}, _: {commit: _}, "`": {commit: "`"}, "{": {commit: "{"}, "|": {commit: "|"}, "}": {commit: "}"}, "~": {commit: "~"}}
   schema_list:
     - {schema: luna_pinyin}
