@@ -28,10 +28,14 @@
 patch:
   # 載入朙月拼音擴充詞庫
   translator/dictionary: mZhuyin
-  punctuator/import_preset: default
   engine/processors/@last: express_editor
-  menu/alternative_select_keys:
   speller/algebra/@before last: "derive/5/1/"
+  recognizer/patterns/uppercase:
+  editor/bindings/space: 
+  menu/alternative_select_keys:
+  # speller/alphabet: "1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-6347"
+  punctuator:
+    import_preset: default
 
   switches/@2:
     options: [ zh_tw, zh_simp ]
