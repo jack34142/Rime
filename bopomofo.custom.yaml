@@ -32,7 +32,7 @@ patch:
   speller/algebra/@before last: "derive/5/1/"
   recognizer/patterns/uppercase:
   editor/bindings/space: 
-  # menu/alternative_select_keys:
+  menu/alternative_select_keys:
   # speller/alphabet: "1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/-6347"
   punctuator:
     import_preset: default
