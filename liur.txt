@@ -2,8 +2,9 @@
 #@/db_name	liur.txt
 #@/db_type	tabledb
 #@/rime_version	1.5.3
-#@/tick	11
+#@/tick	26
 ，	,	1
+鎮	ab	1
 鍊	ajqs	2
 術	at	1
 成	ay	4
@@ -17,7 +18,9 @@
 冒	dmo	1
 大	dn	1
 頭	dta	1
+那	ebi	1
 凱	edr	1
+岍	ekj	1
 爆	fw	1
 嫃	gjb	1
 悍	hdg	1
@@ -25,7 +28,7 @@
 試	iv	1
 操	joot	2
 王	ke	2
-病	lb	1
+病	lb	2
 療	lbds	1
 效	lxp	1
 閤	mao	1
@@ -36,9 +39,14 @@
 帆	nra	1
 冠	nrra	1
 亞	oe	1
+呱	oga	1
+嗎	omf	1
 口	oo	1
 師	pben	1
+你	pns	1
+個	po	1
 偶	pqnu	1
+到	pri	1
 果	qtn	1
 強	quc	1
 草	rdj	1
@@ -50,16 +58,22 @@
 萬	ru	1
 艾	rxx	1
 緃	sbbz	3
+ス	su.	1
 通	t	1
+查	tde	1
+臺	te	1
 想	tmh	2
 露	uozo	1
 貓	uqrq	1
 短	vdd	1
+了	wi	1
 測	wmbr	2
 治	wuo	1
+ヶ	xke.	1
 龓	xua	1
 箭	zbi	1
 離	~la	1
 聯	~rgn	1
 蕾	~ruq	1
+巛	~sa	1
 港	~wrbp	1
