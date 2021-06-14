@@ -2,7 +2,7 @@
 #@/db_name	liur.txt
 #@/db_type	tabledb
 #@/rime_version	1.5.3
-#@/tick	11
+#@/tick	13
 ，	,	1
 鍊	ajqs	2
 術	at	1
@@ -59,6 +59,7 @@
 治	wuo	1
 龓	xua	1
 箭	zbi	1
+♂	~,m	2
 離	~la	1
 聯	~rgn	1
 蕾	~ruq	1
