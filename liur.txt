@@ -2,7 +2,7 @@
 #@/db_name	liur.txt
 #@/db_type	tabledb
 #@/rime_version	1.5.3
-#@/tick	26
+#@/tick	28
 ，	,	1
 鎮	ab	1
 鍊	ajqs	2
@@ -30,6 +30,7 @@
 王	ke	2
 病	lb	2
 療	lbds	1
+裏	lqk	1
 效	lxp	1
 閤	mao	1
 間	mdo	1
@@ -73,6 +74,7 @@
 龓	xua	1
 箭	zbi	1
 ♂	~,m	2
+喬	~gi	1
 離	~la	1
 聯	~rgn	1
 蕾	~ruq	1
