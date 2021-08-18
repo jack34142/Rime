@@ -2,7 +2,11 @@
 #@/db_name	liur.txt
 #@/db_type	tabledb
 #@/rime_version	1.5.3
+<<<<<<< HEAD
 #@/tick	112
+=======
+#@/tick	28
+>>>>>>> 9d0a0f9775afc28359ba7841a5909e44ac68f8f3
 ，	,	1
 。	.	1
 對	a	1
@@ -70,10 +74,14 @@
 玩	krr	2
 病	lb	2
 療	lbds	1
+<<<<<<< HEAD
 來	ln	2
 礦	lolk	1
 石	loo	1
 破	lop	1
+=======
+裏	lqk	1
+>>>>>>> 9d0a0f9775afc28359ba7841a5909e44ac68f8f3
 效	lxp	1
 滿	m	1
 閤	mao	1
@@ -149,12 +157,17 @@
 戲	zq	1
 箱	ztm	1
 ♂	~,m	2
+<<<<<<< HEAD
 鉙	~aob	1
 鏓	~apa	1
 拊	~jpa	1
 黄	~ka	1
 離	~la	3
 喿	~ooot	1
+=======
+喬	~gi	1
+離	~la	1
+>>>>>>> 9d0a0f9775afc28359ba7841a5909e44ac68f8f3
 聯	~rgn	1
 蕾	~ruq	1
 巛	~sa	1
