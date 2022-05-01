@@ -2,11 +2,7 @@
 #@/db_name	liur.txt
 #@/db_type	tabledb
 #@/rime_version	1.5.3
-<<<<<<< HEAD
-#@/tick	112
-=======
-#@/tick	28
->>>>>>> 9d0a0f9775afc28359ba7841a5909e44ac68f8f3
+#@/tick	91
 ，	,	1
 。	.	1
 對	a	1
@@ -15,13 +11,15 @@
 鍊	ajqs	2
 術	at	1
 成	ay	4
+念	ayh	1
 今	ayy	1
 之	az	2
 不	ba	5
 險	bac	1
 普	bdo	1
-為	bf	1
+為	bf	2
 人	bn	1
+皆	bpd	1
 阿	bto	1
 遵	bw	2
 爹	bxcc	1
@@ -30,19 +28,23 @@
 居	cjo	1
 蝴	cjou	1
 蝶	cst	1
+螭	cwuu	1
 的	d	5
 太	daa	2
+斗	dj	1
 早	djj	1
 裂	dk	1
 冒	dmo	1
 大	dn	1
 頭	dta	1
-一	e	2
+一	e	3
 那	ebi	1
 天	edn	1
 凱	edr	1
 岍	ekj	1
+段	eru	1
 下	fa	2
+羆	fuf	1
 爆	fw	1
 遊	fwn	2
 爐	fzqf	1
@@ -62,26 +64,28 @@
 試	iaxi	1
 試	iv	1
 我	ix	3
+戴	jb	2
 事	jce	1
+換	jd	2
 直	je	1
+控	ji	1
 卒	jjj	1
 播	jmq	1
 是	jn	1
 操	joot	2
 摸	jrdd	1
 打	jti	2
+九	k	1
 王	ke	3
+鴆	knf	1
 玩	krr	2
-病	lb	2
+病	lb	3
 療	lbds	1
-<<<<<<< HEAD
 來	ln	2
 礦	lolk	1
 石	loo	1
 破	lop	1
-=======
 裏	lqk	1
->>>>>>> 9d0a0f9775afc28359ba7841a5909e44ac68f8f3
 效	lxp	1
 滿	m	1
 閤	mao	1
@@ -96,6 +100,7 @@
 剛	nr	1
 帆	nra	1
 冠	nrra	1
+○	o	2
 亞	oe	1
 呱	oga	1
 國	ohe	2
@@ -128,8 +133,12 @@
 礽	rsr	1
 葉	rst	1
 萬	ru	1
+苡	rua	1
+硻	rulo	1
 艾	rxx	1
 緃	sbbz	3
+轡	scso	1
+紺	sgo	1
 物	snm	1
 先	srl	2
 ス	su.	3
@@ -138,40 +147,51 @@
 臺	te	1
 想	tmh	2
 う	u,	1
+ウ	u.	1
+預	ub	1
 露	uozo	1
 貓	uqrq	1
-短	vdd	1
+短	vdd	2
 了	wi	3
 測	wmbr	2
 沒	wnu	2
 治	wuo	1
 文	wx	1
 淆	wxx	1
+法	wyu	1
+有	x	1
 ヶ	xke.	1
 龓	xua	1
 原	ya	1
+都	yb	1
 壞	yk	1
 壙	ylk	1
 老	ypf	1
 箭	zbi	1
+篝	zje	1
 戲	zq	1
 箱	ztm	1
 ♂	~,m	2
-<<<<<<< HEAD
+【	~[	211
+﹃	~[	10
+】	~]	210
+﹄	~]	6
+鐱	~aoa	2
 鉙	~aob	1
 鏓	~apa	1
-拊	~jpa	1
-黄	~ka	1
-離	~la	3
-喿	~ooot	1
-=======
+盍	~ce	1
 喬	~gi	1
+拊	~jpa	2
+黄	~ka	1
 離	~la	1
->>>>>>> 9d0a0f9775afc28359ba7841a5909e44ac68f8f3
+喿	~ooot	1
+恖	~pa	1
 聯	~rgn	1
+莇	~rmd	1
 蕾	~ruq	1
 巛	~sa	1
 冃	~ue	1
+袚	~vax	2
 漓	~wla	1
 港	~wrbp	1
 黾	~xl	1
