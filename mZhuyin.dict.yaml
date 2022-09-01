@@ -42,8 +42,8 @@ use_preset_vocabulary: true
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
 import_tables:
   - terra_pinyin
-  - luna_pinyin.hanyu
-  - luna_pinyin.poetry
+  # - luna_pinyin.hanyu
+  # - luna_pinyin.poetry
 ...
 
 痾	e1
@@ -57,6 +57,7 @@ import_tables:
 妮	ni2
 鄙	bi4
 嚼	jue2
+危	wei2
 
 混	huen2	10%
 混	huen3	60%
