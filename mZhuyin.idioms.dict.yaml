@@ -19,10 +19,10 @@
 #
 
 ---
-name: luna_pinyin.idioms
+name: mZhuyin.idioms
 version: "2022.09.01"
 sort: by_weight
-use_preset_vocabulary: true
+# use_preset_vocabulary: true
 ...
 
 # https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/dict_idiomsdict_download.html
