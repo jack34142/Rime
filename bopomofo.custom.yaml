@@ -51,7 +51,7 @@ patch:
 
   zh_tw:
     option_name: zh_tw
-    opencc_config: s2twp.json # t2tw=>凶兇
+    opencc_config: s2tw.json # t2tw=>凶兇
 
   zh_simp:
     option_name: zh_simp
