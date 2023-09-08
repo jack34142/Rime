@@ -40,7 +40,9 @@ sort: by_weight
 use_preset_vocabulary: true
 #此處爲明月拼音擴充詞庫（基本）默認鏈接載入的詞庫，有朙月拼音官方詞庫、明月拼音擴充詞庫（漢語大詞典）、明月拼音擴充詞庫（詩詞）、明月拼音擴充詞庫（含西文的詞彙）。如果不需要加載某个詞庫請將其用「#」註釋掉。
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
+# luna_pinyin: https://github.com/rime/rime-luna-pinyin/blob/master/luna_pinyin.dict.yaml
 import_tables:
+  - mZhuyin.h
   - terra_pinyin
   - mZhuyin.idioms
 ...
@@ -115,7 +117,6 @@ import_tables:
 私訊	si1 xun4
 直播	zhi2 bo1
 南崁	nan2 kan3
-炮友	pao4 you3
 支語	zhi1 yu3
 鐵匠	tie3 jiang4
 困難	kuen4 nan2

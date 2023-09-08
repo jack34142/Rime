@@ -49,9 +49,14 @@ patch:
     - simplifier@zh_tw
     - uniquifier
 
+# s2tw.json => https://github.com/BYVoid/OpenCC/blob/master/data/config/s2tw.json
+# STCharacters.txt => https://github.com/BYVoid/OpenCC/blob/master/data/dictionary/STCharacters.txt
+# STPhrases.txt => https://github.com/BYVoid/OpenCC/blob/master/data/dictionary/STPhrases.txt
+# TWVariants.txt => https://github.com/BYVoid/OpenCC/blob/master/data/dictionary/TWVariants.txt (台灣正體用字)
   zh_tw:
     option_name: zh_tw
-    opencc_config: s2tw.json # t2tw=>凶兇
+    # opencc_config: s2tw.json # t2tw=>凶兇
+    opencc_config: mytw.json
 
   zh_simp:
     option_name: zh_simp
