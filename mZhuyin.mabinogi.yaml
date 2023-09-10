@@ -1,0 +1,38 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Hanyu Dictionary) - 明月拼音擴充詞庫（漢語大詞典）
+#
+#   瑾昀 <cokunhui@gmail.com>
+#
+# Thanks to the following works:
+#
+# * 漢語大詞典
+#   由mdx格式的詞典提取詞條而得，去除與rime內建八股文詞庫（即essay.txt）、朙月拼音擴充詞庫（基本）相同的詞彙，剩20万餘條。
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: mZhuyin.mabinogi
+version: "2023.09.10"
+sort: by_weight
+# use_preset_vocabulary: true
+...
+
+芬恩	fen1 en1
+稀原	xi1 yuan2
+斑苔	ban1 tai2
+鍊成	lian4 cheng2
+魅魔	mei4 mo2
+鐮刃	lian2 ren4
+闇黑	an4 hei1
+闇影	an4 ying3
+黑闇	hei1 an4
+闇夜	an4 ye4
+終焉	zhong1 yan1

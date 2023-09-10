@@ -44,6 +44,7 @@ use_preset_vocabulary: true
 import_tables:
   - terra_pinyin
   - mZhuyin.idioms
+  - mZhuyin.mabinogi
   - mZhuyin.lol
   - mZhuyin.pokemon
   - mZhuyin.h
@@ -90,18 +91,7 @@ import_tables:
 倒立	dao3 li4
 街上	jie1 shang4
 旋風	xuan2 feng1
-芬恩	fen1 en1
-稀原	xi1 yuan2
-斑苔	ban1 tai2
-鍊成	lian4 cheng2
-魅魔	mei4 mo2
-鐮刃	lian2 ren4
-闇黑	an4 hei1
-闇影	an4 ying3
-黑闇	hei1 an4
-闇夜	an4 ye4
 龜裂	guei1 lie4
-終焉	zhong1 yan1
 護妻	hu4 qi1
 梗圖	geng3 tu2
 可撥	ke3 bo1
@@ -143,7 +133,6 @@ import_tables:
 魚羹	yu2 geng1
 魚焿	yu2 geng1
 偽裝	wei3 zhung1
-雙排	shung1 pai2
 
 記得	ji4 de2
 覺得	jue2 de2
