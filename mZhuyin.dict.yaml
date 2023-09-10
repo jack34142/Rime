@@ -42,9 +42,11 @@ use_preset_vocabulary: true
 #雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
 # luna_pinyin: https://github.com/rime/rime-luna-pinyin/blob/master/luna_pinyin.dict.yaml
 import_tables:
-  - mZhuyin.h
   - terra_pinyin
   - mZhuyin.idioms
+  - mZhuyin.lol
+  - mZhuyin.pokemon
+  - mZhuyin.h
 ...
 
 痾	e1
