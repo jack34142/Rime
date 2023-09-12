@@ -73,13 +73,10 @@ import_tables:
 穹	qiong1
 躍	yao4
 蚵	ke1
-
-混	huen2	10%
-混	huen3	60%
-混	huen4	30%
-一	yi1	30%
-一	yi2	10%
-一	yi4	60%
+會	huei3
+一	yi4
+一	yi2
+混	huen3
 
 麻煩	ma2 fan2
 嬰靈	ying1 ling2
@@ -118,9 +115,8 @@ import_tables:
 玉米	yu4 mi3
 殺小	sa1 xiao3
 剩下	sheng4 xia4
-混淆	huen3 yao2
 豆腐	dou4 fu3
-混合	huen3 he2
+混淆	huen3 yao2
 諧咖	xie2 ka1
 認識	ren4 shi4
 喉嚨	hou2 long2
@@ -135,14 +131,6 @@ import_tables:
 魚焿	yu2 geng1
 偽裝	wei3 zhung1
 慕斯	mu4 si1
-
-記得	ji4 de2
-覺得	jue2 de2
-
-石頭	shi2 tou2
-拳頭	quan2 tou2
-罐頭	guan4 tou2
-斧頭	fu3 tou2
 
 連續技	lian2 xu4 ji4
 卑彌呼	bei1 mi2 hu1
