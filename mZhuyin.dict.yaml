@@ -46,6 +46,7 @@ import_tables:
   - mZhuyin.idioms
   - mZhuyin.mabinogi
   - mZhuyin.lol
+  - mZhuyin.genshin
   - mZhuyin.pokemon
   - mZhuyin.h
 ...
