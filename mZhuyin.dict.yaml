@@ -44,6 +44,7 @@ use_preset_vocabulary: true
 import_tables:
   - terra_pinyin
   - mZhuyin.idioms
+  - mZhuyin.stream
   - mZhuyin.mabinogi
   - mZhuyin.lol
   - mZhuyin.genshin
@@ -117,7 +118,6 @@ import_tables:
 剩下	sheng4 xia4
 豆腐	dou4 fu3
 混淆	huen3 yao2
-諧咖	xie2 ka1
 認識	ren4 shi4
 喉嚨	hou2 long2
 謝謝	xie4 xie4
@@ -134,6 +134,9 @@ import_tables:
 聖劍	sheng4 jian4
 奶泡	nai3 pao4
 釣手	diao4 shou3
+背刺	bei4 ci4
+保濕	bao3 shi1
+沒差	mei2 cha1
 
 連續技	lian2 xu4 ji4
 卑彌呼	bei1 mi2 hu1
@@ -141,5 +144,4 @@ import_tables:
 史萊姆	shi3 lai2 mu3
 龍紋鏊	long2 wen2 ao2
 路易莎	lu4 yi4 sha1
-
-一鍵三連	yi1 jian4 san1 lian2
+關廁所	guan1 ce4 suo3
