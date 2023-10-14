@@ -44,7 +44,6 @@ use_preset_vocabulary: true
 import_tables:
   - terra_pinyin
   - mZhuyin.idioms
-  - mZhuyin.stream
   - mZhuyin.mabinogi
   - mZhuyin.lol
   - mZhuyin.genshin
@@ -144,6 +143,11 @@ import_tables:
 慶記	qing4 ji4
 神作	shen2 zuo4
 週目	zhou1 mu4
+諧咖	xie2 ka1
+斗內	dou3 nei4
+到府	dao4 fu3
+寶具	bao3 ju4
+尊爵	zun1 jue2
 
 連續技	lian2 xu4 ji4
 卑彌呼	bei1 mi2 hu1
@@ -152,5 +156,12 @@ import_tables:
 龍紋鏊	long2 wen2 ao2
 路易莎	lu4 yi4 sha1
 關廁所	guan1 ce4 suo3
+機機人	ji1 ji1 ren2
 
 醫學奇蹟	yi1 xue2 qi2 ji1
+不講武德	bu4 jion3 wu3 de2
+一鍵三連	yi1 jian4 san1 lian2
+大喊一聲	da4 han3 yi1 sheng1
+大腳一踢	da4 jiao3 yi1 ti1
+捕熊陷阱	bu3 xong2 xian4 jing3
+莎莎給油	sha1 sha1 gei3 you2
