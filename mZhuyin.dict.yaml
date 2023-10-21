@@ -51,6 +51,8 @@ import_tables:
   - mZhuyin.h
 ...
 
+呵	he1	100%
+
 痾	e1
 欸	ei4
 誒	ei2
@@ -79,6 +81,7 @@ import_tables:
 混	huen3
 地	di5
 蹈	dao4
+刈	gua4
 
 麻煩	ma2 fan2
 嬰靈	ying1 ling2
@@ -124,7 +127,6 @@ import_tables:
 咖哩	ga1 li3
 包括	bao1 gua1
 熟悉	shou2 xi1
-背包	bei1 bao1
 魟魚	hong1 yu2
 𩵚魠	tu3 tuo1
 魚羹	yu2 geng1
@@ -148,6 +150,7 @@ import_tables:
 到府	dao4 fu3
 寶具	bao3 ju4
 尊爵	zun1 jue2
+估狗	gu1 gou3
 
 連續技	lian2 xu4 ji4
 卑彌呼	bei1 mi2 hu1

@@ -12,16 +12,11 @@
       "type": "group",
       "dicts": [{
         "type": "text",
-        "file": "STPhrases.txt"
+        "file": "STCharacters.txt"
       }, {
         "type": "text",
-        "file": "STCharacters.txt"
+        "file": "TWVariants.txt"
       }]
-    }
-  }, {
-    "dict": {
-      "type": "text",
-      "file": "TWVariants.txt"
     }
   }]
 }
